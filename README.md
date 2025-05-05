@@ -52,3 +52,21 @@ Each role plays a critical part in delivering a high-quality product:
 - **Robust backend infrastructure** ensures scalability and reliability of the booking system.
 
 By working together, the team creates an efficient, user-friendly booking platform that meets business and customer needs.
+# UI Component Patterns
+
+## Overview
+To ensure a cohesive and user-friendly interface, this project will follow established UI component patterns. These components will maintain consistency in design, improve usability, and enhance the overall booking experience.
+
+## Core UI Components
+| Component      | Description |
+|---------------|-------------|
+| **Navbar**    | Provides navigation links for browsing properties, accessing user accounts, and managing bookings. Ensures intuitive navigation across the platform. |
+| **Property Card** | Displays key details of a listed property, including images, price, location, and ratings. Helps users quickly assess their booking options. |
+| **Footer**    | Contains essential links, such as support, terms & conditions, social media connections, and legal information. |
+
+## Design Considerations
+- **Consistency:** All components will maintain uniform colors, typography, and spacing to ensure a polished look.
+- **Accessibility:** Components will follow best practices to be inclusive for all users, including support for keyboard navigation and screen readers.
+- **Responsiveness:** The UI will be optimized for desktop and mobile users, ensuring seamless adaptability.
+
+By implementing these reusable UI components, we create a streamlined and visually appealing interface that enhances the overall user experience.
