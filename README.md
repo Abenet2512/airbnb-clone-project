@@ -51,3 +51,32 @@ Each role plays a critical part in delivering a high-quality product:
 - **Robust backend infrastructure** ensures scalability and reliability of the booking system.
 
 By working together, the team creates an efficient, user-friendly booking platform that meets business and customer needs.
+## UI Component Patterns
+
+In building the Airbnb Clone project, I plan to design and develop the following reusable UI components:
+
+### 1. Navbar
+- A responsive navigation bar that includes the logo, search input, login/signup buttons, and menu icons.
+- Sticky on scroll and mobile-friendly.
+
+### 2. Property Card
+- A card component displaying property images, title, location, price per night, and rating.
+- Will be used across search results, home page, and favorites.
+
+### 3. Footer
+- Contains useful links like “About”, “Help”, “Privacy”, and social media icons.
+- Designed to remain consistent across all pages.
+
+### 4. Search Bar
+- A prominent search input with filters for location, check-in/out dates, and guest number.
+- Will support auto-suggestions for destinations.
+
+### 5. Modal Components
+- For sign-in, sign-up, and booking confirmation.
+- Includes form validation and accessibility features.
+
+### 6. Button Variants
+- Primary, secondary, and outline styles used throughout the UI for consistency.
+
+These components will be created using modern front-end best practices to ensure reusability, responsiveness, and visual consistency throughout the application.
+
